@@ -11,13 +11,16 @@ tags:
   - User Testing
 ---
 
-## Level-two heading
+## Application de gestion de rdv/factures pour le cabinet dentaire Orthalis
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
-
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+- Maquettage de l'application (Wireframes)
+- Modélisation de la base de données (Jmerise)
+- Benchmarking 
+- Réalisation du front-end à l'aide du framework Bootstrap
+- Animations en JavaScript & Jquery
+- Utilisation de NodeJS pour le back-end 
 
 ### Level-three heading
 
