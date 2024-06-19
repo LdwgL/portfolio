@@ -20,4 +20,4 @@ tags:
 - Benchmarking 
 - Réalisation du front-end à l'aide du framework Bootstrap
 - Animations en JavaScript & Jquery
-- Utilisation de NodeJS pour le back-end 
+- Utilisation de NodeJS Server pour le back-end 
