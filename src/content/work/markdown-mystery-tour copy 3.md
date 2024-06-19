@@ -21,3 +21,5 @@ tags:
 - Réalisation du front-end à l'aide du framework Bootstrap
 - Animations en JavaScript & Jquery
 - Utilisation de NodeJS Server pour le back-end 
+
+<img src ="">
