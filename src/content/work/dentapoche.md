@@ -15,11 +15,13 @@ tags:
 
 > Gestion de RDV/Factures & Système d'authentification Utilisateur.
 
+<html>
+<img src="/assets/dentapoche.png">
+</html>
+
 - Maquettage de l'application (Wireframes)
 - Modélisation de la base de données (Jmerise)
 - Benchmarking 
 - Réalisation du front-end à l'aide du framework Bootstrap
 - Animations en JavaScript & Jquery
-- Utilisation de NodeJS Server pour le back-end 
-
-<img src ="">
+- Utilisation de NodeJS Server pour le back-end pour intéragir avec les données JSON 
